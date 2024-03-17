@@ -1,0 +1,5 @@
+venv
+.idea
+model_lr.pkl
+model_mlp.pkl
+model_rf.pkl
